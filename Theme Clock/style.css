@@ -171,8 +171,11 @@ body {
   margin: 0 auto;
   max-width: 350px;
   padding: 10px;
-  background: #f2f2f2;
+  background: #1b1b1b;
   white-space: nowrap;
+}
+#tpick .header {
+  color: #c61d1d;
 }
 #tpick-h, #tpick-m, #tpick-s {
   display: inline-block;
